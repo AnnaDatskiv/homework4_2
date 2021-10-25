@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson4_2</string>
+    <string name="mainText">This texting game is one of the most\n spectacular ways to waste time.\n You and your friends choose a topic,\n such as celebrities or zoo animals.\n The first player will say a word in the\n chosen category. The second player\n then says a word or a name that\n begins with the last letter of the first\n player`s word.</string>
+    <string name="profile_info">Profile info</string>
+    <string name="firstimage">firstImage</string>
+    <string name="ok">OK</string>
+</resources>
